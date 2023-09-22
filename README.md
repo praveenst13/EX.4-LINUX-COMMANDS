@@ -29,10 +29,13 @@ To study and execute the basis of UNIX commands.
 ### COMMAND5:
    rm - Remove Files
 ### OUTPUT:
+![rm](https://github.com/praveenst13/EX.4-LINUX-COMMANDS/assets/118787793/e8763f8b-dea0-4acc-a738-b2ce16293f4e)
 
-### COMMAND3:
 
+### COMMAND6:
+  rmdir - Remove Directories
 ### OUTPUT:
+![rmdir](https://github.com/praveenst13/EX.4-LINUX-COMMANDS/assets/118787793/0b0e9caa-f728-46a8-9a44-69622676b945)
 
 ### COMMAND3:
 
